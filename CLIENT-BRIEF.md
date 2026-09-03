@@ -15,11 +15,20 @@
 - **Hinta (vahvistettu suoraan liikkeen omasta ikkunakyltistä valokuvassa): "15€ HIUSTENLEIKKAUS"** — tämä on todellinen, nähty hinta, ei arvaus
 - Facebook-läsnäolo vahvistettu (postaus "Tervetuloa Parturi AdnStyle Ulvilassa" paikallisryhmässä), sisältöä ei saatu auki (kirjautumisvaatimus)
 
-## Kuvista nähty (kuvatiedostoja ei saatu ladattua, mutta sisältö tarkistettu suoraan selaimella)
+## Kuvat — ladattu onnistuneesti 2026-09-03, tallennettu `client-assets/`-kansioon
 
-- **Sisätila:** moderni, tyylikäs parturi — kuusikulmaisista paneeleista koostuva LED-kattovalaistus, mustat nahkaiset parturituolit, tumman sinimustat peilipisteet, lämmin puulattia, tiiliseinä jolla tuotehyllyjä
-- **Julkisivu:** oikea perinteinen parturitolppa (punainen/valkoinen/sininen raidoitus), "ADN Style" -kyltti ikkunassa, "AVOINNA"-kyltti, yksikkönumero "15C" näkyvissä
-- Kuvat päivätty loka 2025 — suhteellisen tuore liiketila/sisustus
+Neljä oikeaa, korkealaatuista kuvaa ladattu suoraan Googlen kuvapalvelimelta (julkinen Google-profiilikuva, ei kirjautumista vaativa):
+
+- `interior-hero.jpg` — laaja sisäkuva: täysi kuusikulmainen LED-kattovalaistus (kylmä valkoinen/sininen valo, ei lämmin), mustat nahkaiset parturituolit, valkoiset peilipisteet mustilla marmorikuvioisilla paneeleilla, lämmin puulattia, seinällä TV, oikealla tiilikuvioinen tuotehylly
+- `storefront.jpg` — julkisivu: **oikea perinteinen parturitolppa (punainen/valkoinen/sininen)**, ikkunassa "15€ HIUSTENLEIKKAUS", ADN Style -logo (tyylitelty leijonapää-siluetti, sopii AI-kuvan logotyyliin), puhelinnumero ja aukioloajat kyltissä
+- `interior-counter.jpg` — vastaanottotiski, tiilikuvioinen puuverhoilu, TV, toinen parturituoli
+- `interior-wide.jpg` — laajempi kuva jossa näkyy myös musta nahkasohva odotustilassa ja ovi takahuoneeseen
+
+**Huomio "LH 3":** Oskari vahvisti — tämä tulee ADN Stylen omasta, Google-profiilissa olevasta materiaalista (heidän oma kuva/grafiikka), ei tekoälyn keksimä. Todennäköisesti "liikehuoneisto 3" -merkintä, täydentää "15C"-oveen merkittyä numeroa, ei välttämättä ristiriidassa.
+
+**RISTIRIITA aukioloajoissa, ei ratkaistu:** julkisivun kyltti sanoo **"Ma-Pe: 8-17, La: 9-16, Su: Suljettu"**, mutta Google-profiili sanoo **"ma-pe 9-18, la 9-16, su suljettu"**. La ja Su täsmäävät, Ma-Pe ei. Kyltti voi olla vanhentunut tai Google päivittämätön — kysy ADN Stylelta kumpi pitää paikkansa ennen julkaisua.
+
+Kuvat päivätty loka 2025 — suhteellisen tuore liiketila/sisustus.
 
 ## EI VAHVISTETTU — älä keksi
 
@@ -38,9 +47,9 @@
 - Juha Tuominen (2 arvostelua): "Erinomainen palvelu ja siistiä jälkeä tuli!"
 - jussi koskinen (2 arvostelua): "Erittäin hyvä ja ammattitaitoinen palvelu."
 
-## Visuaalinen suunta
+## Visuaalinen suunta — korjattu 2026-09-03 oikeiden kuvien perusteella
 
-Ei valokuvamateriaalia käytettävissä → typografia- ja värivetoinen design (ei AI-kuvia esittämässä tekaistua liiketilaa/työntekijää — CLAUDE.md-sääntö: AI-kuva ei saa johtaa harhaan). Väripaletti: tumma antrasiitti + lämmin kupari/amber-korostus (moderni parturi-tunnelma, ei kliseistä punavalkosinistä partatankoa).
+Ensimmäinen versio arvasi väripaletin (lämmin kupari) ilman kuvia — väärin, Oskarin palautteen mukaan. Oikeat kuvat näyttävät: **kylmä valkoinen/sininen LED-valo** (ei lämmin), musta/tumma seinäpinta, mustat nahkatuolit, lämmin puulattia (ainoa lämmin elementti), ja **oikea punainen/valkoinen/sininen parturitolppa** julkisivulla — tämä on aito brändielementti, ei kliseenä vältettävä. Uusi paletti: musta/antrasiitti + kylmä valkoinen LED-aksentti + puun lämpö kuvissa itsessään, parturitolven värit pienenä aitona yksityiskohtana (ei koko sivun teemana).
 
 ## Rajaus
 

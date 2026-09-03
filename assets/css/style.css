@@ -1,14 +1,17 @@
 :root {
-  --bg-dark: #17140f;
-  --bg-dark-2: #1e1a13;
-  --bg-light: #faf7f1;
-  --bg-light-2: #f1ebe0;
-  --accent: #c9873a;
-  --accent-light: #e2a75f;
-  --text-dark: #1c1810;
-  --text-light: #f6f1e6;
-  --muted-dark: #6c6659;
-  --muted-light: #b9ae98;
+  --bg-dark: #121213;
+  --bg-dark-2: #1a1a1c;
+  --bg-light: #faf9f7;
+  --bg-light-2: #efece6;
+  --accent: #a9784e;
+  --accent-light: #c99b6c;
+  --led: #e7f1fa;
+  --barber-red: #c0392b;
+  --barber-blue: #2c5aa0;
+  --text-dark: #19181a;
+  --text-light: #f5f4f2;
+  --muted-dark: #6b675f;
+  --muted-light: #b3b0aa;
   --radius: 14px;
   --wrap: 1080px;
 }
@@ -41,6 +44,17 @@ body {
   font-weight: 600;
   padding: 8px 16px;
   letter-spacing: 0.02em;
+}
+
+/* Barber pole accent stripe — real detail from their own storefront, used sparingly */
+.pole-stripe {
+  height: 5px;
+  background: repeating-linear-gradient(
+    -45deg,
+    var(--barber-red) 0 14px,
+    #fff 14px 28px,
+    var(--barber-blue) 28px 42px
+  );
 }
 
 /* Header */
@@ -93,14 +107,11 @@ body {
 
 /* Hero */
 .hero {
-  background: var(--bg-dark);
+  background-color: var(--bg-dark);
   color: var(--text-light);
-  padding: 96px 0 80px;
-  background-image:
-    radial-gradient(circle at 85% 15%, rgba(201,135,58,0.10) 0%, transparent 45%),
-    repeating-linear-gradient(60deg, rgba(226,167,95,0.05) 0 2px, transparent 2px 34px),
-    repeating-linear-gradient(-60deg, rgba(226,167,95,0.05) 0 2px, transparent 2px 34px);
-  background-position: center;
+  padding: 110px 0 100px;
+  background-size: cover;
+  background-position: center right;
 }
 .eyebrow {
   text-transform: uppercase;
@@ -127,6 +138,29 @@ body {
 .hero-actions { display: flex; gap: 16px; flex-wrap: wrap; }
 .hero .btn-ghost { border-color: var(--muted-light); color: var(--text-light); }
 .hero .btn-ghost:hover { background: rgba(255,255,255,0.08); }
+
+/* Gallery */
+.gallery { background: var(--bg-dark-2); padding: 72px 0; }
+.gallery .eyebrow { margin-bottom: 28px; }
+.gallery-grid {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  grid-template-rows: auto auto;
+  gap: 16px;
+}
+.gallery-grid img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: var(--radius);
+  display: block;
+}
+.gallery-main { grid-row: 1 / 3; aspect-ratio: 4/3; }
+.gallery-grid img:not(.gallery-main) { aspect-ratio: 4/3; }
+@media (max-width: 720px) {
+  .gallery-grid { grid-template-columns: 1fr; grid-template-rows: auto; }
+  .gallery-main { grid-row: auto; }
+}
 
 /* Trust bar */
 .trust-bar {
