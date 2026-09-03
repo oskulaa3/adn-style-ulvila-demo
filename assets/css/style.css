@@ -3,8 +3,8 @@
   --bg-dark-2: #1a1a1c;
   --bg-light: #faf9f7;
   --bg-light-2: #efece6;
-  --accent: #a9784e;
-  --accent-light: #c99b6c;
+  --accent: #b83227;
+  --accent-light: #d14a3d;
   --led: #e7f1fa;
   --barber-red: #c0392b;
   --barber-blue: #2c5aa0;
@@ -74,7 +74,14 @@ body {
   text-decoration: none;
   letter-spacing: -0.01em;
 }
-.logo span { color: var(--accent-light); }
+.logo span {
+  color: var(--accent-light);
+  font-family: 'Alex Brush', cursive;
+  font-weight: 400;
+  font-size: 1.7rem;
+  margin-left: 2px;
+  vertical-align: -2px;
+}
 
 /* Buttons */
 .btn {
@@ -94,7 +101,7 @@ body {
 .btn:focus-visible { outline: 3px solid var(--accent-light); outline-offset: 2px; }
 .btn-primary {
   background: var(--accent);
-  color: #1c1408;
+  color: #fbf3ef;
 }
 .btn-primary:hover { background: var(--accent-light); }
 .btn-ghost {
