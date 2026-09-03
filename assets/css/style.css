@@ -5,6 +5,8 @@
   --bg-light-2: #efece6;
   --accent: #b83227;
   --accent-light: #d14a3d;
+  --accent-2: #4a7fb5;
+  --accent-2-light: #6b9bcc;
   --led: #e7f1fa;
   --barber-red: #c0392b;
   --barber-blue: #2c5aa0;
@@ -109,8 +111,8 @@ body {
   border-color: currentColor;
   color: inherit;
 }
-.header-cta { color: var(--text-light); font-size: 0.9rem; padding: 10px 20px; }
-.header-cta:hover { background: rgba(255,255,255,0.08); }
+.header-cta { color: var(--text-light); border-color: var(--accent-2); font-size: 0.9rem; padding: 10px 20px; }
+.header-cta:hover { background: rgba(74,127,181,0.15); }
 
 /* Hero */
 .hero {
@@ -125,7 +127,7 @@ body {
   letter-spacing: 0.14em;
   font-size: 0.78rem;
   font-weight: 600;
-  color: var(--accent-light);
+  color: var(--accent-2);
   margin: 0 0 16px;
 }
 .hero h1 {
@@ -186,7 +188,7 @@ body {
   gap: 4px;
   min-width: 180px;
 }
-.stars { color: var(--accent); font-size: 1.1rem; letter-spacing: 2px; }
+.stars { color: var(--accent-2); font-size: 1.1rem; letter-spacing: 2px; }
 .score { font-size: 2.6rem; font-weight: 700; line-height: 1; }
 .score-label { font-size: 0.85rem; color: var(--muted-dark); }
 .trust-quote {
@@ -224,7 +226,7 @@ body {
 }
 .service-num {
   display: block;
-  color: var(--accent);
+  color: var(--accent-2);
   font-weight: 700;
   font-size: 0.9rem;
   margin-bottom: 16px;

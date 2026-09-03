@@ -17,8 +17,8 @@
 
   reveals.forEach(function (el) { observer.observe(el); });
 
-  // Safety net: if something goes wrong, force everything visible after 4s
+  // Safety net: if something goes wrong, force everything visible after 2s
   setTimeout(function () {
     reveals.forEach(function (el) { el.classList.add('is-visible'); });
-  }, 4000);
+  }, 2000);
 })();
