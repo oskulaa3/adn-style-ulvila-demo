@@ -2,7 +2,7 @@
 
 **Tila 2026-09-03:** ADN Style vastasi kiinnostuneena Nordyxin (aiemmin Loistox) tekstiviestiin/soittoon — ensimmäinen oikea "kyllä" koko kontaktointikierroksella. Tämä demo tehdään sen jälkeen, ei ennen — Nordyxin oma vahvistettu prosessi.
 
-**Materiaalitilanne:** hyvin niukka. Google-profiilin kuvia/palveluita/hintoja EI ehditty tarkistaa selainongelmien (laajennus kaatui, kone kävi muistin loppumisen takia hitaasti) takia — tehty puutteellisella tiedolla, täydennetään kun materiaali saadaan.
+**Materiaalitilanne päivitetty 2026-09-03 (toinen kierros, selainongelmat korjattu):** Google-profiilin kuvat käyty läpi kokonaan (Oskarin ohje: tarkista aina koko profiili). Löytyi paljon enemmän kuin ensimmäisellä kierroksella — ks. alla.
 
 ## Yritys — vahvistettu Google Mapsista
 
@@ -11,20 +11,26 @@
 - Puhelin: 044 2353511
 - Kategoria: Parturi
 - Arvosana: 5,0 ★ (14 arvostelua)
-- Aukiolo: avoinna, sulkeutuu klo 18.00 (tarkka viikkoaikataulu ei tiedossa)
-- Facebook-läsnäolo vahvistettu (postaus "Tervetuloa Parturi AdnStyle Ulvilassa" paikallisryhmässä), sisältöä ei saatu auki (kirjautumisvaatimus + selainongelmat)
+- **Aukioloajat (täysi viikko, vahvistettu Google-profiilista):** ma–ke 9–18, to–pe 9–18, la 9–16, su suljettu
+- **Hinta (vahvistettu suoraan liikkeen omasta ikkunakyltistä valokuvassa): "15€ HIUSTENLEIKKAUS"** — tämä on todellinen, nähty hinta, ei arvaus
+- Facebook-läsnäolo vahvistettu (postaus "Tervetuloa Parturi AdnStyle Ulvilassa" paikallisryhmässä), sisältöä ei saatu auki (kirjautumisvaatimus)
+
+## Kuvista nähty (kuvatiedostoja ei saatu ladattua, mutta sisältö tarkistettu suoraan selaimella)
+
+- **Sisätila:** moderni, tyylikäs parturi — kuusikulmaisista paneeleista koostuva LED-kattovalaistus, mustat nahkaiset parturituolit, tumman sinimustat peilipisteet, lämmin puulattia, tiiliseinä jolla tuotehyllyjä
+- **Julkisivu:** oikea perinteinen parturitolppa (punainen/valkoinen/sininen raidoitus), "ADN Style" -kyltti ikkunassa, "AVOINNA"-kyltti, yksikkönumero "15C" näkyvissä
+- Kuvat päivätty loka 2025 — suhteellisen tuore liiketila/sisustus
 
 ## EI VAHVISTETTU — älä keksi
 
 - Y-tunnus, omistajan/parturin nimi
-- Tarkka palveluluettelo ja hinnat
-- Kuvat liiketilasta, työjäljestä tai tekijästä
+- Tarkka koko palveluluettelo (vain hiustenleikkuun hinta 15€ vahvistettu, ei muita palveluita/hintoja kuten parranajo)
 - Kokemusvuodet, koulutus, erikoisosaaminen
 - Sähköpostiosoite (kysytään ADN Stylelta erikseen tekstiviestillä, Oskari hoitaa)
 
-## Palveluoletus (varovainen, kategoriapohjainen — EI esitetä vahvistettuna faktana)
+## Palveluoletus
 
-"Parturi"-kategoria viittaa tyypillisesti miesten/poikien hiustenleikkuuseen ja parranajoon/-muotoiluun Suomessa. Demossa tämä ilmaistaan yleisluonteisesti ("miesten ja poikien hiustenleikkuu, parranajo") ilman tarkkoja alapalveluita tai hintoja — merkitään "ota yhteyttä hinnoista" kunnes vahvistettu.
+"Parturi"-kategoria + nähdyt kuvat viittaavat miesten/poikien hiustenleikkuuseen ja parranajoon/-muotoiluun. Hiustenleikkuun hinta (15€) on vahvistettu, muita ei — parranajo mainitaan yleisluonteisesti ilman hintaa.
 
 ## Käytettävät todelliset arvostelut (Google Maps, julkisia)
 

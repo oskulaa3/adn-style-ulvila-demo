@@ -96,6 +96,11 @@ body {
   background: var(--bg-dark);
   color: var(--text-light);
   padding: 96px 0 80px;
+  background-image:
+    radial-gradient(circle at 85% 15%, rgba(201,135,58,0.10) 0%, transparent 45%),
+    repeating-linear-gradient(60deg, rgba(226,167,95,0.05) 0 2px, transparent 2px 34px),
+    repeating-linear-gradient(-60deg, rgba(226,167,95,0.05) 0 2px, transparent 2px 34px);
+  background-position: center;
 }
 .eyebrow {
   text-transform: uppercase;
@@ -183,7 +188,8 @@ body {
   font-size: 0.9rem;
   margin-bottom: 16px;
 }
-.service-card h3 { margin: 0 0 10px; font-size: 1.25rem; }
+.service-card h3 { margin: 0 0 4px; font-size: 1.25rem; }
+.service-price { color: var(--accent); font-weight: 700; font-size: 1.1rem; margin: 0 0 10px; }
 .service-card p { margin: 0; color: var(--muted-dark); font-size: 0.95rem; }
 .service-note {
   margin-top: 32px;
@@ -235,6 +241,13 @@ body {
   margin-bottom: 24px;
 }
 .contact-phone:hover { color: var(--accent); }
+.hours {
+  border-collapse: collapse;
+  margin: 20px 0 28px;
+  font-size: 0.95rem;
+}
+.hours th, .hours td { text-align: left; padding: 4px 16px 4px 0; font-weight: 400; }
+.hours th { color: var(--muted-dark); font-weight: 500; }
 .contact-map { border-radius: var(--radius); overflow: hidden; }
 .contact-map iframe {
   width: 100%;
